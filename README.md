@@ -1,6 +1,6 @@
 # My-Northwestern-Uni.-Modern-Robotics-Course-Repository-
 
-All my Python Code in this course are posted here.
+All my Python(and some MATLAB) Code in this course are posted here.
 
 ⚠️ DISCLAIMER AND ACADEMIC INTEGRITY
 
