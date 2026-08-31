@@ -1,4 +1,4 @@
-# My-Northwestern-Uni.-Modern-Robotics-Course-Repository-
+# modern-robotics-northwestern
 
 All my Python(and some MATLAB) Code in this course are posted here.
 
